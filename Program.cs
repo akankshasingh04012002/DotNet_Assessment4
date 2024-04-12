@@ -16,10 +16,13 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseDeveloperExceptionPage();
 }
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.MapControllers();
 
 app.Run();
