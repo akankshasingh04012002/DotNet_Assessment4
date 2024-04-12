@@ -1,0 +1,6 @@
+@rpgAPI_HostAddress = http://localhost:5252
+
+GET {{rpgAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
