@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7waRAhqrIn3sG/ZBFy5WzdMsrtfl2Sct9k2fd+MX4WcCbScp/gm/5sBztQU5v6Ol4Af6jMIvhunNDBZxHo8u6w==",
+  "success": true,
+  "projectFilePath": "/home/knoldus/Desktop/Test4/src/rpgAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/knoldus/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/knoldus/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
